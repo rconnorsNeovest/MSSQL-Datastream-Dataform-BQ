@@ -1,0 +1,6 @@
+oe_company_sk,oe_company_id,datasource_code,oe_company_name,taps_account_code,is_forex_provisioned_ind,first_forex_provisioned_date,is_active_ind,is_deleted_ind
+9001,90001,OEPROD,TestCompanyOne,NULL,-999,1900-01-01,1,0
+9002,90002,OEPROD,TestCompanyTwo,TAPS9002,-999,1900-01-01,1,0
+9003,90003,OEPROD,TestCompanyThree,NULL,-999,1900-01-01,1,0
+9004,90004,OEPROD,TestCompanyFour,TAPS9004,-999,1900-01-01,1,0
+9005,90005,OEPROD,TestCompanyFive,NULL,-999,1900-01-01,1,0

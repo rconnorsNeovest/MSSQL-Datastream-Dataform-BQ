@@ -1,0 +1,11 @@
+ServiceID,Dest,Broker,ProdType,Region,Network,Middleware,BrokerID
+4,INET,Disabled,CASH,US,,,XXXX
+4,NEOINET,Disabled,CASH,US,,,XXXX
+5,NITE,Knight Trading,CASH,US, , ,NITE
+13,ARCA,Archipelago,DMA,US,,,ARCA
+13,NEOARCA,Archipelago,DMA,US,,,ARCA
+15,NITE,Knight Trading,CASH,US,,,NITE
+17,INET,Disabled,CASH,US,,,XXXX
+18,UBS,UBS,CASH,US,TNS,Direct,UBSS
+18,UBS,UBS,IOI,US,TNS,Direct,UBSS
+18,UBS,UBS,ZMAIN,US,TNS,Direct,UBSS

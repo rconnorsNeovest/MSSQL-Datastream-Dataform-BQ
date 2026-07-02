@@ -1,0 +1,11 @@
+NV_User_ID,AdminTimeStamp,AdminString,AdminIdentity,EntryType,OrderRef,Reason,Server
+265,2003-07-23 08:58:28,User nthompson  logged event,61,,,,
+265,2003-07-23 08:59:43,User wgoodson  logged event,62,,,,
+265,2003-07-23 09:01:04,User cthornton  logged event,63,,,,
+265,2003-07-23 09:02:04,User jwitczak  logged event,64,,,,
+204,2003-07-23 09:02:51,User jthomas  logged event,65,,,,
+204,2003-07-23 09:03:05,User cthornton  logged event,66,,,,
+265,2003-07-23 09:03:06,User bduhon  logged event,67,,,,
+265,2003-07-23 09:04:14,User crobillard  logged event,68,,,,
+265,2003-07-23 09:04:37,User rduhon  logged event,69,,,,
+265,2003-07-23 09:05:11,User rtate  logged event,70,,,,

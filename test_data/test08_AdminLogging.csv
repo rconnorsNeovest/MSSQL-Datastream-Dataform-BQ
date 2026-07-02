@@ -1,0 +1,11 @@
+NV_User_ID,AdminTimeStamp,AdminString,AdminIdentity,EntryType,OrderRef,Reason,Server
+20999,2024-06-12 23:30:08.477,User wrwsouth logged event,193396416,0, ,Admin,OEBSKAS20
+21002,2024-06-12 23:30:10.047,User tradingdesk  logged event,193396417,0, ,Admin,SV_UK_NA
+21002,2024-06-12 23:30:10.047,User rkirk2  logged event,193396418,0, ,Admin,SV_UK_HK
+21002,2024-06-12 23:30:10.037,User lawaisse3  logged event,193396419,0, ,Admin,UK_FUT_OE8
+20999,2024-06-12 23:30:11.790,User vic2  logged event,193396420,0, ,Admin,OEBSKNA18
+20999,2024-06-12 23:30:11.790,User sberwick  logged event,193396421,0, ,Admin,OEBSKEU19
+20999,2024-06-12 23:30:11.790,User jwitczak  logged event,193396422,0, ,Admin,OEBSKAS20
+21000,2024-06-12 23:30:21.570,User kbelter  logged event,193396423,0, ,Admin,OEBSKAS17
+21000,2024-06-12 23:30:21.570,User bbyers  logged event,193396424,0, ,Admin,OEBSKEU16
+21000,2024-06-12 23:30:21.570,User gcutler  logged event,193396425,0, ,Admin,OEBSKNA15

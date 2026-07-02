@@ -1,0 +1,11 @@
+ServiceID,Dest,Broker,ProdType,Region,Network,Middleware,BrokerID
+90,AP,Undefined,DMA,US,,,? :)
+90,BELZ,Undefined,DMA,US,,,? :)
+90,DOT,Undefined,DMA,US,,,? :)
+90,EBS,Undefined,DMA,US,,,? :)
+90,UY,Undefined,DMA,US,,,? :)
+95,ARCA,Undefined,DMA,US,,,? :)
+95,BRUT,Undefined,DMA,US,,,? :)
+95,INET,Undefined,DMA,US,,,? :)
+95,INET-RASH,Undefined,DMA,US,,,? :)
+95,ISLD,Undefined,DMA,US,,,? :)

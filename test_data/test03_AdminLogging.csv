@@ -1,0 +1,11 @@
+NV_User_ID,AdminTimeStamp,AdminString,AdminIdentity,EntryType,OrderRef,Reason,Server
+21586,2024-06-12 23:20:09.803,User joe  logged event,193396366,0, ,Admin,N5_FUT_OE7
+26829,2024-06-12 23:20:35.673,User bwaggoner  logged event,193396367,0, ,Admin,NY5_NA12
+26829,2024-06-12 23:20:35.777,User cthornton  logged event,193396368,0, ,Admin,NY5_NA12
+26829,2024-06-12 23:20:35.777,User lawaisse2  logged event,193396369,0, ,Admin,NY5_NA12
+16399,2024-06-12 23:20:38.167,User joe  logged event,193396370,0, ,Admin,N5_FUT_OE7
+16399,2024-06-12 23:20:38.180,User jwitczak1  logged event,193396371,0, ,Admin,SV_ASIA_OE5
+16399,2024-06-12 23:20:38.180,User lawaisse3  logged event,193396372,0, ,Admin,SV_NA_OE2
+22406,2024-06-12 23:21:46.377,User mvincent  logged event,193396373,6,YDFG19MFXQ8P,Reviewed set to Y,HK_ASIA_OE6
+4211,2024-06-12 23:23:33.053,User jwright  logged event,193396374,0, ,Admin,N5_NA_OE1
+4211,2024-06-12 23:23:33.067,User bduhon  logged event,193396375,0, ,Admin,SV_ASIA_OE5

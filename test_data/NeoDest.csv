@@ -1,0 +1,101 @@
+ServiceID,Dest,Broker,ProdType,Region,Network,Middleware,BrokerID
+4,INET,Disabled,CASH,US,,,XXXX
+4,NEOINET,Disabled,CASH,US,,,XXXX
+5,NITE,Knight Trading,CASH,US, , ,NITE
+13,ARCA,Archipelago,DMA,US,,,ARCA
+13,NEOARCA,Archipelago,DMA,US,,,ARCA
+15,NITE,Knight Trading,CASH,US,,,NITE
+17,INET,Disabled,CASH,US,,,XXXX
+18,UBS,UBS,CASH,US,TNS,Direct,UBSS
+18,UBS,UBS,IOI,US,TNS,Direct,UBSS
+18,UBS,UBS,ZMAIN,US,TNS,Direct,UBSS
+22,ARCA,Archipelago,DMA,US,,,ARCA
+22,NEOARCA,Archipelago,DMA,US,,,ARCA
+27,CIBC,CIBC World Markets,CASH,CAD,TNS,Direct,CIBC
+27,CIBC,CIBC World Markets,CASH,US,TNS,Direct,CIBC
+33,NEOARCA,Archipelago,DMA,US,,,ARCA
+34,MILL,Nyfix,DMA,US, ,Nyfix,NYFX
+36,TEST,XXXX,CASH,EMEA, , ,XXXX
+37,NEOMILL,Nyfix,DMA,US, ,Nyfix,NYFX
+37,NYFX,Nyfix,DMA,US, ,Nyfix,NYFX
+48,ARCA,Archipelago,DMA,US,,,ARCA
+65,NEOMILL,Nyfix,DMA,US,,,NYFX
+65,NYFX,Nyfix,DMA,US,,,NYFX
+74,Neovest Managed,Disabled,CASH,US,,,XXXX
+74,Neovest Managed,Disabled,DMA,US,,,XXXX
+74,Neovest Managed,Disabled,OPT-DMA,US,,,XXXX
+74,SMOR,Disabled,CASH,US,,,XXXX
+74,SMOR,Disabled,DMA,US,,,XXXX
+74,SMOR,Disabled,OPT-DMA,US,,,XXXX
+75,MILL,Undefined,DROP COPY,US, ,Nyfix,? :)
+76,AMEX,Disabled,OPT-DMA,US,,,XXXX
+76,BATS,Disabled,OPT-DMA,US,,,XXXX
+76,BOX,Disabled,OPT-DMA,US,,,XXXX
+76,CBOE,Disabled,OPT-DMA,US,,,XXXX
+76,ISE,Disabled,OPT-DMA,US,,,XXXX
+76,KEXP,Disabled,OPT-DMA,US,,,XXXX
+76,NOM,Disabled,OPT-DMA,US,,,XXXX
+76,PCOAST,Disabled,OPT-DMA,US,,,XXXX
+76,XPHILLY,Disabled,OPT-DMA,US,,,XXXX
+79,JFCODC,Disabled,DROP COPY,US,,,XXXX
+83,JFCODC,Disabled,DROP COPY,US,,,XXXX
+89,Neovest Managed,Nasdaq,ALGO,US,Internal,Neovest,NSDQ
+89,Neovest Managed,Nasdaq,CASH,US,Internal,Neovest,NSDQ
+89,Neovest Managed,Nasdaq,DARK POOL,US,Internal,Neovest,NSDQ
+89,Neovest Managed,Nasdaq,OPT-ALGO,US,Internal,Neovest,NSDQ
+89,Neovest Managed,Nasdaq,OPT-DMA,US,Internal,Neovest,NSDQ
+89,SMOR,Nasdaq,ALGO,US,Internal,Neovest,NSDQ
+89,SMOR,Nasdaq,CASH,US,Internal,Neovest,NSDQ
+89,SMOR,Nasdaq,DARK POOL,US,Internal,Neovest,NSDQ
+89,SMOR,Nasdaq,OPT-ALGO,US,Internal,Neovest,NSDQ
+89,SMOR,Nasdaq,OPT-DMA,US,Internal,Neovest,NSDQ
+90,AP,Undefined,DMA,US,,,? :)
+90,BELZ,Undefined,DMA,US,,,? :)
+90,DOT,Undefined,DMA,US,,,? :)
+90,EBS,Undefined,DMA,US,,,? :)
+90,UY,Undefined,DMA,US,,,? :)
+95,ARCA,Undefined,DMA,US,,,? :)
+95,BRUT,Undefined,DMA,US,,,? :)
+95,INET,Undefined,DMA,US,,,? :)
+95,INET-RASH,Undefined,DMA,US,,,? :)
+95,ISLD,Undefined,DMA,US,,,? :)
+95,NSD1,Undefined,DMA,US,,,? :)
+95,NYS+,Undefined,DMA,US,,,? :)
+95,RASH,Undefined,DMA,US,,,? :)
+95,XPER,Undefined,DMA,US,,,? :)
+100,WDSB,Disabled,DMA,US,,,XXXX
+101,INCA,Instinet,ALGO,US,TNS,Direct,INCA
+101,NEOINCA,Instinet,ALGO,US,TNS,Direct,INCA
+105,ISLD,Disabled,CASH,US,,,XXXX
+113,OTAA,Disabled,CASH,US,,,XXXX
+114,LEHMAN,Barclays,CASH,US,TNS,Direct,BARC
+119,BLOCKS,Morgan Stanley,CASH,CAD, , ,MSDW
+119,BLOCKS,Morgan Stanley,CASH,US, , ,MSDW
+119,BLOCKS,Morgan Stanley,IOI,CAD, , ,MSDW
+119,BLOCKS,Morgan Stanley,IOI,US, , ,MSDW
+119,BLOCKS5,Morgan Stanley,CASH,CAD, , ,MSDW
+119,BLOCKS5,Morgan Stanley,CASH,US, , ,MSDW
+119,BLOCKS5,Morgan Stanley,IOI,CAD, , ,MSDW
+119,BLOCKS5,Morgan Stanley,IOI,US, , ,MSDW
+119,MSCO,Morgan Stanley,CASH,CAD, , ,MSDW
+119,MSCO,Morgan Stanley,CASH,US, , ,MSDW
+119,MSCO,Morgan Stanley,IOI,CAD, , ,MSDW
+119,MSCO,Morgan Stanley,IOI,US, , ,MSDW
+119,MSDW,Morgan Stanley,CASH,CAD, , ,MSDW
+119,MSDW,Morgan Stanley,CASH,US, , ,MSDW
+119,MSDW,Morgan Stanley,IOI,CAD, , ,MSDW
+119,MSDW,Morgan Stanley,IOI,US, , ,MSDW
+120,DOT,Morgan Stanley,DMA,US, , ,MSDW
+121,SCG_DESK,Susquehanna Financial Group,CASH,US,TNS,Direct,SUSQ
+121,SCG_DESK,Susquehanna Financial Group,IOI,US,TNS,Direct,SUSQ
+121,SCG_DESK,Susquehanna Financial Group,ZMAIN,US,TNS,Direct,SUSQ
+121,SFG_DESK,Susquehanna Financial Group,CASH,US,TNS,Direct,SUSQ
+121,SFG_DESK,Susquehanna Financial Group,IOI,US,TNS,Direct,SUSQ
+121,SFG_DESK,Susquehanna Financial Group,ZMAIN,US,TNS,Direct,SUSQ
+121,SUSQ,Susquehanna Financial Group,CASH,US,TNS,Direct,SUSQ
+121,SUSQ,Susquehanna Financial Group,IOI,US,TNS,Direct,SUSQ
+121,SUSQ,Susquehanna Financial Group,ZMAIN,US,TNS,Direct,SUSQ
+123,JEFDC3,Disabled,CASH,US,,,XXXX
+124,NITE,Knight Trading,CASH,US, , ,NITE
+124,NITE-CASH,Knight Trading,CASH,US, , ,NITE
+124,NITE-SOFT,Knight Trading,CASH,US, , ,NITE

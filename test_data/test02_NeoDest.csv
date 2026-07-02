@@ -1,0 +1,11 @@
+ServiceID,Dest,Broker,ProdType,Region,Network,Middleware,BrokerID
+22,ARCA,Archipelago,DMA,US,,,ARCA
+22,NEOARCA,Archipelago,DMA,US,,,ARCA
+27,CIBC,CIBC World Markets,CASH,CAD,TNS,Direct,CIBC
+27,CIBC,CIBC World Markets,CASH,US,TNS,Direct,CIBC
+33,NEOARCA,Archipelago,DMA,US,,,ARCA
+34,MILL,Nyfix,DMA,US, ,Nyfix,NYFX
+36,TEST,XXXX,CASH,EMEA, , ,XXXX
+37,NEOMILL,Nyfix,DMA,US, ,Nyfix,NYFX
+37,NYFX,Nyfix,DMA,US, ,Nyfix,NYFX
+48,ARCA,Archipelago,DMA,US,,,ARCA

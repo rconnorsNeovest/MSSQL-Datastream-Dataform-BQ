@@ -1,0 +1,11 @@
+NV_User_ID,AdminTimeStamp,AdminString,AdminIdentity,EntryType,OrderRef,Reason,Server
+16528,2024-06-12 23:24:19.713,User rkirk  logged event,193396386,0, ,Admin,N5_NA_OE1
+22406,2024-06-12 23:24:53.217,User trader3  logged event,193396387,6,YCLS02LBLLX9,Reviewed set to Y,HK_ASIA_OE6
+22406,2024-06-12 23:24:54.787,User bmccain  logged event,193396388,6,YCLS02LBLLXC,Reviewed set to Y,HK_ASIA_OE6
+22406,2024-06-12 23:26:03.257,User crobillard  logged event,193396389,6,YFVD9KRV1KGK,Reviewed set to Y,HK_ASIA_OE6
+26829,2024-06-12 23:26:35.467,User duncan1  logged event,193396390,0, ,Admin,NY5_NA12
+26829,2024-06-12 23:26:35.570,User dparrd2  logged event,193396391,0, ,Admin,NY5_NA12
+26829,2024-06-12 23:26:35.570,User tudorbos  logged event,193396392,0, ,Admin,NY5_NA12
+22056,2024-06-12 23:27:12.387,User kduncan  logged event,193396393,0, ,Admin,SV_ASIA_OE5
+22056,2024-06-12 23:27:12.387,User mdejarnette  logged event,193396394,0, ,Admin,N5_NA_OE1
+22056,2024-06-12 23:27:12.380,User tradingdesk  logged event,193396395,0, ,Admin,N5_FUT_OE7

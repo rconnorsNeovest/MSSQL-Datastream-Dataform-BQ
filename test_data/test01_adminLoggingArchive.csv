@@ -1,0 +1,11 @@
+NV_User_ID,AdminTimeStamp,AdminString,AdminIdentity,EntryType,OrderRef,Reason,Server
+101,2002-12-17 20:15:56,User dci3  logged event,1,,,,
+101,2002-12-17 20:16:21,User trader3  logged event,2,,,,
+101,2002-12-17 20:16:24,User tradingdesk  logged event,3,,,,
+101,2002-12-18 00:55:54,User jthomas  logged event,4,,,,
+101,2002-12-18 00:57:11,User duncan1  logged event,5,,,,
+101,2002-12-18 00:57:36,User bnash  logged event,6,,,,
+101,2002-12-18 01:01:48,User bduhon  logged event,7,,,,
+267,2002-12-18 08:10:59,User dparr1  logged event,8,,,,
+267,2002-12-18 08:12:14,User jbayne  logged event,9,,,,
+279,2002-12-18 08:17:17,User jwright  logged event,10,,,,

@@ -1,0 +1,11 @@
+ServiceID,Dest,Broker,ProdType,Region,Network,Middleware,BrokerID
+119,BLOCKS,Morgan Stanley,CASH,CAD, , ,MSDW
+119,BLOCKS,Morgan Stanley,CASH,US, , ,MSDW
+119,BLOCKS,Morgan Stanley,IOI,CAD, , ,MSDW
+119,BLOCKS,Morgan Stanley,IOI,US, , ,MSDW
+119,BLOCKS5,Morgan Stanley,CASH,CAD, , ,MSDW
+119,BLOCKS5,Morgan Stanley,CASH,US, , ,MSDW
+119,BLOCKS5,Morgan Stanley,IOI,CAD, , ,MSDW
+119,BLOCKS5,Morgan Stanley,IOI,US, , ,MSDW
+119,MSCO,Morgan Stanley,CASH,CAD, , ,MSDW
+119,MSCO,Morgan Stanley,CASH,US, , ,MSDW

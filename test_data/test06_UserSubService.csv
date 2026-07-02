@@ -1,0 +1,11 @@
+NV_User_ID,Order_Value,Service,SubService,EquityShares,EquityDollars,OptionContracts,OptionDollars,Billable
+144,26,Scopus Advisors Parent ,CIBC-OPT ,0.0,0.0,0.0,0.0,1
+144,27,Scopus Advisors Parent ,CITI-ALGO ,0.0,0.0,0.0,0.0,1
+144,28,Scopus Advisors Parent ,CITI-OPT-ALGO ,0.0,0.0,0.0,0.0,1
+144,29,Scopus Advisors Parent ,CITI-OPT-CARE ,0.0,0.0,0.0,0.0,1
+144,30,Scopus Advisors Parent ,CITI-OPT-MLEG ,0.0,0.0,0.0,0.0,1
+144,31,Scopus Advisors Parent ,CLSA ,0.0,0.0,0.0,0.0,1
+144,32,Scopus Advisors Parent ,COWEN ,0.0,0.0,0.0,0.0,1
+144,33,Scopus Advisors Parent ,COWEN-ALGO ,0.0,0.0,0.0,0.0,1
+144,34,Scopus Advisors Parent ,COWEN-MLEG ,0.0,0.0,0.0,0.0,1
+144,35,Scopus Advisors Parent ,COWEN-OPTS ,0.0,0.0,0.0,0.0,1

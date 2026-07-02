@@ -1,0 +1,101 @@
+NV_User_ID,AdminTimeStamp,AdminString,AdminIdentity,EntryType,OrderRef,Reason,Server
+22406,2024-06-12 23:17:13.057,User gmadrid  logged event,193396346,6,YFVD9KRV1KGG,Reviewed set to Y,HK_ASIA_OE6
+17954,2024-06-12 23:17:32.687,User wrwsouth logged event,193396347,0, ,Admin,N5_NA_OE1
+17954,2024-06-12 23:17:32.670,User jthomas  logged event,193396348,0, ,Admin,N5_FUT_OE7
+17954,2024-06-12 23:17:32.683,User csc  logged event,193396349,0, ,Admin,SV_ASIA_OE5
+26829,2024-06-12 23:17:35.627,User byancey  logged event,193396350,0, ,Admin,NY5_NA12
+26829,2024-06-12 23:17:35.727,User jschellenger  logged event,193396351,0, ,Admin,NY5_NA12
+26829,2024-06-12 23:17:35.727,User rscott  logged event,193396352,0, ,Admin,NY5_NA12
+18584,2024-06-12 23:18:18.970,User phil1  logged event,193396353,0, ,Admin,OEBSKEU16
+18584,2024-06-12 23:18:18.970,User bpowell  logged event,193396354,0, ,Admin,OEBSKNA15
+18584,2024-06-12 23:18:18.970,User rscott  logged event,193396355,0, ,Admin,OEBSKAS17
+17954,2024-06-12 23:18:55.697,User rking  logged event,193396356,0, ,Admin,N5_NA_OE1
+17954,2024-06-12 23:18:55.693,User cbrannan  logged event,193396357,0, ,Admin,SV_ASIA_OE5
+17954,2024-06-12 23:18:55.680,User dparrd2  logged event,193396358,0, ,Admin,N5_FUT_OE7
+22406,2024-06-12 23:19:35.457,User vic2  logged event,193396359,6,YGMQ2KWK4V55,Reviewed set to Y,HK_ASIA_OE6
+22406,2024-06-12 23:19:44.253,User sthomas  logged event,193396360,6,YGMQ2KWK4V56,Reviewed set to Y,HK_ASIA_OE6
+18584,2024-06-12 23:19:53.530,User lawaisse1  logged event,193396361,0, ,Admin,OEBSKEU16
+18584,2024-06-12 23:19:53.530,User schase  logged event,193396362,0, ,Admin,OEBSKNA15
+18584,2024-06-12 23:19:53.530,User bfreeman  logged event,193396363,0, ,Admin,OEBSKAS17
+21586,2024-06-12 23:20:09.817,User wwylie logged event,193396364,0, ,Admin,SV_NA_OE2
+21586,2024-06-12 23:20:09.817,User dci3  logged event,193396365,0, ,Admin,SV_ASIA_OE5
+21586,2024-06-12 23:20:09.803,User joe  logged event,193396366,0, ,Admin,N5_FUT_OE7
+26829,2024-06-12 23:20:35.673,User bwaggoner  logged event,193396367,0, ,Admin,NY5_NA12
+26829,2024-06-12 23:20:35.777,User cthornton  logged event,193396368,0, ,Admin,NY5_NA12
+26829,2024-06-12 23:20:35.777,User lawaisse2  logged event,193396369,0, ,Admin,NY5_NA12
+16399,2024-06-12 23:20:38.167,User joe  logged event,193396370,0, ,Admin,N5_FUT_OE7
+16399,2024-06-12 23:20:38.180,User jwitczak1  logged event,193396371,0, ,Admin,SV_ASIA_OE5
+16399,2024-06-12 23:20:38.180,User lawaisse3  logged event,193396372,0, ,Admin,SV_NA_OE2
+22406,2024-06-12 23:21:46.377,User mvincent  logged event,193396373,6,YDFG19MFXQ8P,Reviewed set to Y,HK_ASIA_OE6
+4211,2024-06-12 23:23:33.053,User jwright  logged event,193396374,0, ,Admin,N5_NA_OE1
+4211,2024-06-12 23:23:33.067,User bduhon  logged event,193396375,0, ,Admin,SV_ASIA_OE5
+4211,2024-06-12 23:23:33.053,User joe  logged event,193396376,0, ,Admin,N5_FUT_OE7
+26829,2024-06-12 23:23:35.710,User cthornton  logged event,193396377,0, ,Admin,NY5_NA12
+26829,2024-06-12 23:23:35.810,User rtate  logged event,193396378,0, ,Admin,NY5_NA12
+26829,2024-06-12 23:23:35.810,User sthomas  logged event,193396379,0, ,Admin,NY5_NA12
+22406,2024-06-12 23:23:52.997,User nthompson  logged event,193396380,6,YGMQKP04X654,Reviewed set to Y,HK_ASIA_OE6
+7775,2024-06-12 23:23:57.907,User duncan1  logged event,193396381,0, ,Admin,SV_NA_OE2
+7775,2024-06-12 23:23:57.893,User rkirk2  logged event,193396382,0, ,Admin,N5_FUT_OE7
+7775,2024-06-12 23:23:57.893,User dgoldring  logged event,193396383,0, ,Admin,SV_ASIA_OE5
+16528,2024-06-12 23:24:19.550,User rscott  logged event,193396384,0, ,Admin,SV_ASIA_OE5
+16528,2024-06-12 23:24:19.697,User bfreeman  logged event,193396385,0, ,Admin,N5_FUT_OE7
+16528,2024-06-12 23:24:19.713,User rkirk  logged event,193396386,0, ,Admin,N5_NA_OE1
+22406,2024-06-12 23:24:53.217,User trader3  logged event,193396387,6,YCLS02LBLLX9,Reviewed set to Y,HK_ASIA_OE6
+22406,2024-06-12 23:24:54.787,User bmccain  logged event,193396388,6,YCLS02LBLLXC,Reviewed set to Y,HK_ASIA_OE6
+22406,2024-06-12 23:26:03.257,User crobillard  logged event,193396389,6,YFVD9KRV1KGK,Reviewed set to Y,HK_ASIA_OE6
+26829,2024-06-12 23:26:35.467,User duncan1  logged event,193396390,0, ,Admin,NY5_NA12
+26829,2024-06-12 23:26:35.570,User dparrd2  logged event,193396391,0, ,Admin,NY5_NA12
+26829,2024-06-12 23:26:35.570,User tudorbos  logged event,193396392,0, ,Admin,NY5_NA12
+22056,2024-06-12 23:27:12.387,User kduncan  logged event,193396393,0, ,Admin,SV_ASIA_OE5
+22056,2024-06-12 23:27:12.387,User mdejarnette  logged event,193396394,0, ,Admin,N5_NA_OE1
+22056,2024-06-12 23:27:12.380,User tradingdesk  logged event,193396395,0, ,Admin,N5_FUT_OE7
+11085,2024-06-12 23:27:34.057,User acqua  logged event,193396396,0, ,Admin,SV_NA_OE2
+11085,2024-06-12 23:27:34.010,User dfosu  logged event,193396397,0, ,Admin,UK_FUT_OE8
+11085,2024-06-12 23:27:34.187,User dci3  logged event,193396398,0, ,Admin,HK_ASIA_OE6
+22406,2024-06-12 23:27:42.610,User jsmith  logged event,193396399,6,YCLS02LBLLXG,Reviewed set to Y,HK_ASIA_OE6
+22406,2024-06-12 23:27:50.843,User hlindzon  logged event,193396400,6,YCLS02LBLLXF,Reviewed set to Y,HK_ASIA_OE6
+25930,2024-06-12 23:27:59.970,User hlindzon  logged event,193396401,0, ,Admin,SV_ASIA_OE5
+25930,2024-06-12 23:27:59.970,User trader3  logged event,193396402,0, ,Admin,SV_NA_OE2
+25930,2024-06-12 23:28:00.003,User schase  logged event,193396403,0, ,Admin,UK_FUT_OE8
+22406,2024-06-12 23:28:03.303,User bsaunders  logged event,193396404,6,YCLS02LBLLXD,Reviewed set to Y,HK_ASIA_OE6
+24590,2024-06-12 23:28:42.773,User dparr1  logged event,193396405,0, ,Admin,OEBSKAS20
+24590,2024-06-12 23:28:42.773,User mweston  logged event,193396406,0, ,Admin,OEBSKEU19
+24590,2024-06-12 23:28:42.773,User gmadrid  logged event,193396407,0, ,Admin,OEBSKNA18
+26829,2024-06-12 23:29:35.600,User crobillard  logged event,193396408,0, ,Admin,NY5_NA12
+26829,2024-06-12 23:29:35.710,User bvillaume  logged event,193396409,0, ,Admin,NY5_NA12
+26829,2024-06-12 23:29:35.710,User dgoldring  logged event,193396410,0, ,Admin,NY5_NA12
+21002,2024-06-12 23:30:06.923,User vdandridge  logged event,193396411,0, ,Admin,SV_UK_NA
+21002,2024-06-12 23:30:06.923,User gcooksouth  logged event,193396412,0, ,Admin,SV_UK_HK
+21002,2024-06-12 23:30:06.913,User cmays  logged event,193396413,0, ,Admin,UK_FUT_OE8
+20999,2024-06-12 23:30:08.477,User hfalco  logged event,193396414,0, ,Admin,OEBSKEU19
+20999,2024-06-12 23:30:08.477,User kmurphy  logged event,193396415,0, ,Admin,OEBSKNA18
+20999,2024-06-12 23:30:08.477,User wrwsouth logged event,193396416,0, ,Admin,OEBSKAS20
+21002,2024-06-12 23:30:10.047,User tradingdesk  logged event,193396417,0, ,Admin,SV_UK_NA
+21002,2024-06-12 23:30:10.047,User rkirk2  logged event,193396418,0, ,Admin,SV_UK_HK
+21002,2024-06-12 23:30:10.037,User lawaisse3  logged event,193396419,0, ,Admin,UK_FUT_OE8
+20999,2024-06-12 23:30:11.790,User vic2  logged event,193396420,0, ,Admin,OEBSKNA18
+20999,2024-06-12 23:30:11.790,User sberwick  logged event,193396421,0, ,Admin,OEBSKEU19
+20999,2024-06-12 23:30:11.790,User jwitczak  logged event,193396422,0, ,Admin,OEBSKAS20
+21000,2024-06-12 23:30:21.570,User kbelter  logged event,193396423,0, ,Admin,OEBSKAS17
+21000,2024-06-12 23:30:21.570,User bbyers  logged event,193396424,0, ,Admin,OEBSKEU16
+21000,2024-06-12 23:30:21.570,User gcutler  logged event,193396425,0, ,Admin,OEBSKNA15
+21000,2024-06-12 23:30:25.063,User dci3  logged event,193396426,0, ,Admin,OEBSKNA15
+21000,2024-06-12 23:30:25.063,User rscott  logged event,193396427,0, ,Admin,OEBSKAS17
+21000,2024-06-12 23:30:25.063,User nthompson  logged event,193396428,0, ,Admin,OEBSKEU16
+13249,2024-06-12 23:30:29.550,User pjarrell  logged event,193396429,0, ,Admin,HK_ASIA_OE6
+13249,2024-06-12 23:30:29.660,User trader1  logged event,193396430,0, ,Admin,N5_NA_OE1
+13249,2024-06-12 23:30:29.653,User sahsani  logged event,193396431,0, ,Admin,N5_FUT_OE7
+24580,2024-06-12 23:30:40.913,User byancey  logged event,193396432,0, ,Admin,UK_FUT_OE8
+24580,2024-06-12 23:30:41.050,User sberwick  logged event,193396433,0, ,Admin,HK_ASIA_OE6
+24580,2024-06-12 23:30:41.183,User phil1  logged event,193396434,0, ,Admin,SV_NA_OE2
+22079,2024-06-12 23:30:49.380,User vic2  logged event,193396435,0, ,Admin,HK_ASIA_OE6
+22079,2024-06-12 23:30:49.600,User kmurphy  logged event,193396436,0, ,Admin,N5_FUT_OE7
+15577,2024-06-12 23:31:10.357,User subrannan  logged event,193396437,0, ,Admin,NY_NA_OE4
+15577,2024-06-12 23:31:10.357,User agrayson  logged event,193396438,0, ,Admin,NY_NA_OE4
+15577,2024-06-12 23:31:10.357,User vic2  logged event,193396439,0, ,Admin,NY_NA_OE4
+15577,2024-06-12 23:31:10.357,User bmccain  logged event,193396440,0, ,Admin,NY_NA_OE4
+15577,2024-06-12 23:31:10.357,User kduncan  logged event,193396441,0, ,Admin,NY_NA_OE4
+15577,2024-06-12 23:31:10.357,User hlindzon  logged event,193396442,0, ,Admin,NY_NA_OE4
+15577,2024-06-12 23:31:10.357,User rtatetest  logged event,193396443,0, ,Admin,NY_NA_OE4
+15577,2024-06-12 23:31:10.357,User duncan1  logged event,193396444,0, ,Admin,NY_NA_OE4
+15577,2024-06-12 23:31:10.360,User jbayne  logged event,193396445,0, ,Admin,NY_NA_OE4

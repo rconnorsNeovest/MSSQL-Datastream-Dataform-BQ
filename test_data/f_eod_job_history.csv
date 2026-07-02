@@ -1,0 +1,6 @@
+eod_job_history_sk,eod_job_history_id,datasource_code,job_name,service_host_name,log_message_txt,start_ts,end_ts,elapsed_time_sec_qty,elapsed_time_clock_txt,spid_nbr,record_cnt,is_prod_ind,is_uat_ind,is_running_ind,is_done_ind,is_abandoned_ind,has_error_ind,is_ops_job_ind,is_adhoc_job_ind,eod_job_sk,is_active_ind,is_deleted_ind
+9001,E001,EODOPS_OESQLA,TestJobE2E1,NJ2X-OERPTRDB1,NULL,2026-05-19 10:00:00.000000,2026-05-19 10:01:00.000000,60,00:01:00,100,500,1,0,0,1,0,0,-1,-1,-999,1,0
+9002,E002,EODOPS_OESQLA,TestJobE2E2,NJ2X-OERPTRDB1,NULL,2026-05-19 11:00:00.000000,2026-05-19 11:02:00.000000,120,00:02:00,101,1000,1,0,0,0,0,1,-1,-1,-999,1,0
+9003,E003,EODOPS_OESQLA,TestJobE2E3,NJ2X-OERPTRDB1,NULL,2026-05-19 12:00:00.000000,2026-05-19 12:01:00.000000,60,00:01:00,102,1500,1,0,0,1,0,0,-1,-1,-999,1,0
+9004,E004,EODOPS_OESQLA,TestJobE2E4,NJ2X-OERPTRDB1,NULL,2026-05-19 13:00:00.000000,2026-05-19 13:03:00.000000,180,00:03:00,103,2000,1,0,0,0,0,1,-1,-1,-999,1,0
+9005,E005,EODOPS_OESQLA,TestJobE2E5,NJ2X-OERPTRDB1,NULL,2026-05-19 14:00:00.000000,2026-05-19 14:01:00.000000,60,00:01:00,104,2500,1,0,0,1,0,0,-1,-1,-999,1,0

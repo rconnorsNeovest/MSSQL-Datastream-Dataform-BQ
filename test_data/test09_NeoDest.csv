@@ -1,0 +1,11 @@
+ServiceID,Dest,Broker,ProdType,Region,Network,Middleware,BrokerID
+119,MSCO,Morgan Stanley,IOI,CAD, , ,MSDW
+119,MSCO,Morgan Stanley,IOI,US, , ,MSDW
+119,MSDW,Morgan Stanley,CASH,CAD, , ,MSDW
+119,MSDW,Morgan Stanley,CASH,US, , ,MSDW
+119,MSDW,Morgan Stanley,IOI,CAD, , ,MSDW
+119,MSDW,Morgan Stanley,IOI,US, , ,MSDW
+120,DOT,Morgan Stanley,DMA,US, , ,MSDW
+121,SCG_DESK,Susquehanna Financial Group,CASH,US,TNS,Direct,SUSQ
+121,SCG_DESK,Susquehanna Financial Group,IOI,US,TNS,Direct,SUSQ
+121,SCG_DESK,Susquehanna Financial Group,ZMAIN,US,TNS,Direct,SUSQ

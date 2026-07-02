@@ -1,0 +1,101 @@
+NV_User_ID,Order_Value,Service,SubService,EquityShares,EquityDollars,OptionContracts,OptionDollars,Billable
+101,1,JPMorgan Parent ,AC-DESK ,0.0,0.0,0.0,0.0,1
+102,6,Neovest Trading ,NITE ,,,,,0
+102,7,Neovest Trading ,NSDQ ,,,,,0
+103,4,Neovest Trading ,NITE ,,,,,0
+103,10,Neovest Trading ,NSDQ ,,,,,0
+104,4,Neovest Trading ,NITE ,,,,,0
+105,6,Neovest Trading ,NITE ,,,,,0
+107,8,Neovest Trading ,NITE ,,,,,0
+110,6,Neovest Trading ,NITE ,,,,,0
+111,5,Neovest Trading ,NITE ,,,,,0
+112,5,Neovest Trading ,NITE ,,,,,0
+115,5,Neovest Trading ,NITE ,,,,,0
+116,2,Neovest Trading ,NITE ,0.0,0.0,0.0,0.0,0
+116,3,Neovest Trading ,NSDQ ,0.0,0.0,0.0,0.0,0
+117,1,Neovest Trading ,NITE ,,,,,0
+118,5,Neovest Trading ,NITE ,,,,,0
+119,1,Neovest Trading ,NITE ,,,,,0
+123,6,Neovest Trading ,NITE ,,,,,0
+124,4,Neovest Trading ,NITE ,,,,,0
+126,1,Neovest Trading ,NITE ,,,,,0
+127,5,Neovest Trading ,NITE ,,,,,0
+128,9,Neovest Trading ,NITE ,,,,,0
+131,5,Neovest Trading ,NITE ,,,,,0
+132,7,Neovest Trading ,NITE ,,,,,0
+134,4,Neovest Trading ,NITE ,,,,,0
+135,5,Neovest Trading ,NITE ,,,,,0
+135,6,Neovest Trading ,NSDQ ,,,,,0
+137,5,Neovest Trading ,NITE ,,,,,0
+142,1,Neovest Trading ,TEST ,0.0,0.0,0.0,0.0,1
+143,5,Neovest Trading ,NITE ,,,,,0
+144,1,Scopus Advisors Parent ,ACCESS ,0.0,0.0,0.0,0.0,1
+144,2,Scopus Advisors Parent ,ADAMS ,0.0,0.0,0.0,0.0,1
+144,3,Scopus Advisors Parent ,ALFR ,0.0,0.0,0.0,0.0,1
+144,4,Scopus Advisors Parent ,BAIRD ,0.0,0.0,0.0,0.0,1
+144,5,Scopus Advisors Parent ,BAML-ALGO ,0.0,0.0,0.0,0.0,1
+144,6,Scopus Advisors Parent ,BAML-ALGO-SWAP ,0.0,0.0,0.0,0.0,1
+144,7,Scopus Advisors Parent ,BARC-OPTS-CARE ,0.0,0.0,0.0,0.0,1
+144,8,Scopus Advisors Parent ,BARCLYS-EU ,0.0,0.0,0.0,0.0,1
+144,9,Scopus Advisors Parent ,BARX ,0.0,0.0,0.0,0.0,1
+144,10,Scopus Advisors Parent ,BASS ,0.0,0.0,0.0,0.0,1
+144,11,Scopus Advisors Parent ,BCAP ,0.0,0.0,0.0,0.0,1
+144,12,Scopus Advisors Parent ,BERN ,0.0,0.0,0.0,0.0,1
+144,14,Scopus Advisors Parent ,BMO-ALGO ,0.0,0.0,0.0,0.0,1
+144,18,Scopus Advisors Parent ,BTIG-OPT ,0.0,0.0,0.0,0.0,1
+144,20,Scopus Advisors Parent ,CANT ,0.0,0.0,0.0,0.0,1
+144,21,Scopus Advisors Parent ,CGMI ,0.0,0.0,0.0,0.0,1
+144,22,Scopus Advisors Parent ,CGMI-TT ,0.0,0.0,0.0,0.0,1
+144,23,Scopus Advisors Parent ,CGMI:EURO ,0.0,0.0,0.0,0.0,1
+144,24,Scopus Advisors Parent ,CIBC ,0.0,0.0,0.0,0.0,1
+144,25,Scopus Advisors Parent ,CIBC-CAD ,0.0,0.0,0.0,0.0,1
+144,26,Scopus Advisors Parent ,CIBC-OPT ,0.0,0.0,0.0,0.0,1
+144,27,Scopus Advisors Parent ,CITI-ALGO ,0.0,0.0,0.0,0.0,1
+144,28,Scopus Advisors Parent ,CITI-OPT-ALGO ,0.0,0.0,0.0,0.0,1
+144,29,Scopus Advisors Parent ,CITI-OPT-CARE ,0.0,0.0,0.0,0.0,1
+144,30,Scopus Advisors Parent ,CITI-OPT-MLEG ,0.0,0.0,0.0,0.0,1
+144,31,Scopus Advisors Parent ,CLSA ,0.0,0.0,0.0,0.0,1
+144,32,Scopus Advisors Parent ,COWEN ,0.0,0.0,0.0,0.0,1
+144,33,Scopus Advisors Parent ,COWEN-ALGO ,0.0,0.0,0.0,0.0,1
+144,34,Scopus Advisors Parent ,COWEN-MLEG ,0.0,0.0,0.0,0.0,1
+144,35,Scopus Advisors Parent ,COWEN-OPTS ,0.0,0.0,0.0,0.0,1
+144,43,Scopus Advisors Parent ,DADA ,0.0,0.0,0.0,0.0,1
+144,44,Scopus Advisors Parent ,DBKS ,0.0,0.0,0.0,0.0,1
+144,47,Scopus Advisors Parent ,DIRECTEX ,0.0,0.0,0.0,0.0,1
+144,48,Scopus Advisors Parent ,EDGE_ALGO ,0.0,0.0,0.0,0.0,1
+144,49,Scopus Advisors Parent ,FBN ,0.0,0.0,0.0,0.0,1
+144,50,Scopus Advisors Parent ,FCM-DESK ,0.0,0.0,0.0,0.0,1
+144,51,Scopus Advisors Parent ,FID-FDLM ,0.0,0.0,0.0,0.0,1
+144,52,Scopus Advisors Parent ,FID-HELM ,0.0,0.0,0.0,0.0,1
+144,53,Scopus Advisors Parent ,FUT-AMST-SSO-DMA ,0.0,0.0,0.0,0.0,1
+144,54,Scopus Advisors Parent ,FUT-AMSTER-OPT-DMA ,0.0,0.0,0.0,0.0,1
+144,55,Scopus Advisors Parent ,FUT-MEFF-OPT-DMA ,0.0,0.0,0.0,0.0,1
+144,56,Scopus Advisors Parent ,FUT-MEFF-SSO-DMA ,0.0,0.0,0.0,0.0,1
+144,57,Scopus Advisors Parent ,FUT-OPT-EURO-DMA ,0.0,0.0,0.0,0.0,1
+144,59,Scopus Advisors Parent ,FUT-OPT-LIFICE-DMA ,0.0,0.0,0.0,0.0,1
+144,60,Scopus Advisors Parent ,FUT-OPT-NA-DMA ,0.0,0.0,0.0,0.0,1
+144,61,Scopus Advisors Parent ,FUT-PAR-OPT-DMA ,0.0,0.0,0.0,0.0,1
+144,62,Scopus Advisors Parent ,FUT-PAR-SSO-DMA ,0.0,0.0,0.0,0.0,1
+144,63,Scopus Advisors Parent ,FUT-SSO-EURO-DMA ,0.0,0.0,0.0,0.0,1
+144,65,Scopus Advisors Parent ,GS-NA-CAREFT ,0.0,0.0,0.0,0.0,1
+144,66,Scopus Advisors Parent ,GS-OPT-ALGO ,0.0,0.0,0.0,0.0,1
+144,67,Scopus Advisors Parent ,GS-OPTS ,0.0,0.0,0.0,0.0,1
+144,68,Scopus Advisors Parent ,GS-SMARTSPREAD ,0.0,0.0,0.0,0.0,1
+144,69,Scopus Advisors Parent ,GS-SWAP ,0.0,0.0,0.0,0.0,1
+144,70,Scopus Advisors Parent ,GSAT ,0.0,0.0,0.0,0.0,1
+144,71,Scopus Advisors Parent ,GSCO ,0.0,0.0,0.0,0.0,1
+144,72,Scopus Advisors Parent ,GSCO-EURO ,0.0,0.0,0.0,0.0,1
+144,73,Scopus Advisors Parent ,GUGG ,0.0,0.0,0.0,0.0,1
+144,74,Scopus Advisors Parent ,ICE-FO-CAUS-DMA ,0.0,0.0,0.0,0.0,1
+144,75,Scopus Advisors Parent ,ICE-FO-EU-DMA ,0.0,0.0,0.0,0.0,1
+144,77,Scopus Advisors Parent ,INCA-A ,0.0,0.0,0.0,0.0,1
+144,78,Scopus Advisors Parent ,INCA-DESK ,0.0,0.0,0.0,0.0,1
+144,79,Scopus Advisors Parent ,INCA-E ,0.0,0.0,0.0,0.0,1
+144,80,Scopus Advisors Parent ,INET-ALGO ,0.0,0.0,0.0,0.0,1
+144,81,Scopus Advisors Parent ,INVM ,0.0,0.0,0.0,0.0,1
+144,82,Scopus Advisors Parent ,ISI ,0.0,0.0,0.0,0.0,1
+144,83,Scopus Advisors Parent ,ITG-CASH ,0.0,0.0,0.0,0.0,1
+144,84,Scopus Advisors Parent ,JANN ,0.0,0.0,0.0,0.0,1
+144,85,Scopus Advisors Parent ,JEFCO ,0.0,0.0,0.0,0.0,1
+144,86,Scopus Advisors Parent ,JEFCO-EU ,0.0,0.0,0.0,0.0,1
+144,87,Scopus Advisors Parent ,JEFF-ALGO ,0.0,0.0,0.0,0.0,1

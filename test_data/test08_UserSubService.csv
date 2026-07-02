@@ -1,0 +1,11 @@
+NV_User_ID,Order_Value,Service,SubService,EquityShares,EquityDollars,OptionContracts,OptionDollars,Billable
+144,55,Scopus Advisors Parent ,FUT-MEFF-OPT-DMA ,0.0,0.0,0.0,0.0,1
+144,56,Scopus Advisors Parent ,FUT-MEFF-SSO-DMA ,0.0,0.0,0.0,0.0,1
+144,57,Scopus Advisors Parent ,FUT-OPT-EURO-DMA ,0.0,0.0,0.0,0.0,1
+144,59,Scopus Advisors Parent ,FUT-OPT-LIFICE-DMA ,0.0,0.0,0.0,0.0,1
+144,60,Scopus Advisors Parent ,FUT-OPT-NA-DMA ,0.0,0.0,0.0,0.0,1
+144,61,Scopus Advisors Parent ,FUT-PAR-OPT-DMA ,0.0,0.0,0.0,0.0,1
+144,62,Scopus Advisors Parent ,FUT-PAR-SSO-DMA ,0.0,0.0,0.0,0.0,1
+144,63,Scopus Advisors Parent ,FUT-SSO-EURO-DMA ,0.0,0.0,0.0,0.0,1
+144,65,Scopus Advisors Parent ,GS-NA-CAREFT ,0.0,0.0,0.0,0.0,1
+144,66,Scopus Advisors Parent ,GS-OPT-ALGO ,0.0,0.0,0.0,0.0,1

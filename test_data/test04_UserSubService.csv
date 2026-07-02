@@ -1,0 +1,11 @@
+NV_User_ID,Order_Value,Service,SubService,EquityShares,EquityDollars,OptionContracts,OptionDollars,Billable
+144,1,Scopus Advisors Parent ,ACCESS ,0.0,0.0,0.0,0.0,1
+144,2,Scopus Advisors Parent ,ADAMS ,0.0,0.0,0.0,0.0,1
+144,3,Scopus Advisors Parent ,ALFR ,0.0,0.0,0.0,0.0,1
+144,4,Scopus Advisors Parent ,BAIRD ,0.0,0.0,0.0,0.0,1
+144,5,Scopus Advisors Parent ,BAML-ALGO ,0.0,0.0,0.0,0.0,1
+144,6,Scopus Advisors Parent ,BAML-ALGO-SWAP ,0.0,0.0,0.0,0.0,1
+144,7,Scopus Advisors Parent ,BARC-OPTS-CARE ,0.0,0.0,0.0,0.0,1
+144,8,Scopus Advisors Parent ,BARCLYS-EU ,0.0,0.0,0.0,0.0,1
+144,9,Scopus Advisors Parent ,BARX ,0.0,0.0,0.0,0.0,1
+144,10,Scopus Advisors Parent ,BASS ,0.0,0.0,0.0,0.0,1

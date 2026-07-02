@@ -1,0 +1,6 @@
+config {
+  type: "table",
+  name: "d_oe_user"
+}
+SELECT * EXCEPT(datastream_metadata)
+FROM ${ref("dbo_d_oe_user")}

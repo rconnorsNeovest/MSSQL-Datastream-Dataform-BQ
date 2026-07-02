@@ -1,0 +1,11 @@
+NV_User_ID,Order_Value,Service,SubService,EquityShares,EquityDollars,OptionContracts,OptionDollars,Billable
+101,1,JPMorgan Parent ,AC-DESK ,0.0,0.0,0.0,0.0,1
+102,6,Neovest Trading ,NITE ,,,,,0
+102,7,Neovest Trading ,NSDQ ,,,,,0
+103,4,Neovest Trading ,NITE ,,,,,0
+103,10,Neovest Trading ,NSDQ ,,,,,0
+104,4,Neovest Trading ,NITE ,,,,,0
+105,6,Neovest Trading ,NITE ,,,,,0
+107,8,Neovest Trading ,NITE ,,,,,0
+110,6,Neovest Trading ,NITE ,,,,,0
+111,5,Neovest Trading ,NITE ,,,,,0

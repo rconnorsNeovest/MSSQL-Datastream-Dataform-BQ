@@ -1,0 +1,11 @@
+NV_User_ID,AdminTimeStamp,AdminString,AdminIdentity,EntryType,OrderRef,Reason,Server
+204,2002-12-18 11:12:40,User gcutler  logged event,51,,,,
+204,2002-12-18 11:44:00,User trader3  logged event,52,,,,
+204,2002-12-18 11:44:25,User wgoodson  logged event,53,,,,
+204,2002-12-18 11:45:11,User bfreeman  logged event,54,,,,
+204,2002-12-18 11:46:00,User hfalco  logged event,55,,,,
+204,2002-12-18 11:46:14,User jsmith  logged event,56,,,,
+101,2003-07-23 08:53:36,User bfreeman  logged event,57,,,,
+101,2003-07-23 08:54:44,User bvillaume  logged event,58,,,,
+101,2003-07-23 08:55:06,User dci3  logged event,59,,,,
+150,2003-07-23 08:55:06,User jschellenger  logged event,60,,,,
